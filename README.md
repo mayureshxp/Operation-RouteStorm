@@ -113,3 +113,7 @@ This project is an educational network simulation developed to practise routing,
 Project: Operation RouteStorm
 Category: Computer Networking
 Platform: Cisco Packet Tracer
+
+12. Project Screenshots
+
+[View All Project Screenshots](packet-tracer/screenshots/)
